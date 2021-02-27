@@ -1,7 +1,7 @@
 ---
 title: my story
 layout: template
-filename: index
+filename: mystory
 ---
 
 #Created by Brock Burghardt
