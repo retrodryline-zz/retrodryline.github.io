@@ -1,4 +1,7 @@
+---
+title: home
+layout: template
+filename: index
+---
 
-Created by Brock Burghardt
-
-Help from: https://phuston.github.io/patrickandfrantonarethebestninjas/
+#Help from: https://phuston.github.io/patrickandfrantonarethebestninjas/
