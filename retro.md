@@ -1,7 +1,7 @@
 ---
 title: why retrodryline?
 layout: template
-filename: index
+filename: retro
 ---
 
 #Created by Brock Burghardt
