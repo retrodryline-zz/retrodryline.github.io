@@ -3,7 +3,7 @@ title: home
 layout: template
 filename: index
 ---
-
+![Tambora](tambora56.jpg)
 Created by Brock Burghardt
 
 # Weather Projects
@@ -15,7 +15,7 @@ Created by Brock Burghardt
 
 ### Here is my LinkedIn
 [LinkedIn](https://www.linkedin.com/in/brockburghardtphd/)
-![Tambora](tambora56.jpg)
+
 
 Shout out to
 [pafatbs](https://phuston.github.io/patrickandfrantonarethebestninjas/)
