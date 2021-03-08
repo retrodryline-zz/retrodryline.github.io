@@ -3,7 +3,7 @@ title: home
 layout: template
 filename: index
 ---
-![Tambora]("_images/tambora56.jpg")
+![Tambora](tambora56.jpg)
 Created by Brock Burghardt
 
 # Weather Projects
