@@ -3,6 +3,7 @@ title: home
 layout: template
 filename: index
 ---
+![Me](BB_Pretty.jpg){:class="img-responsive"}
 ![Me](BB_Pretty.jpg){:height="10%" width="10%"}
 
 # Weather Projects
