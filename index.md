@@ -17,7 +17,7 @@ Created by Brock Burghardt
 [LinkedIn](https://www.linkedin.com/in/brockburghardtphd/)
 
 ### Here is my resume
-![Tambora](Resume_Brock_Burghard.pdf)
+![Resume](Resume_Brock_Burghard.pdf)
 
 
 <object data="Resume_Brock_Burghard.pdf" type="application/pdf" width="700px" height="700px">
