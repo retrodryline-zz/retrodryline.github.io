@@ -3,8 +3,7 @@ title: home
 layout: template
 filename: index
 ---
-
-<img src="BB_Pretty.jpb" width="50%" height="50%">
+![Me](BB_Pretty.jpg){:height="50%" width="50%"}
 
 # Weather Projects
 
