@@ -3,7 +3,7 @@ title: my story
 layout: template
 filename: mystory
 ---
+![Tambora](tambora56.jpg)
 
-#Created by Brock Burghardt
-#I wonder what the weather is like
-#Help from: https://phuston.github.io/patrickandfrantonarethebestninjas/
+My passion is in understanding and solving problems.
+Further, is communicating and delivering solutions to help people.
