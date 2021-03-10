@@ -16,7 +16,12 @@ Created by Brock Burghardt
 ### Here is my LinkedIn
 [LinkedIn](https://www.linkedin.com/in/brockburghardtphd/)
 
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 Shout out to
 [pafatbs](https://phuston.github.io/patrickandfrantonarethebestninjas/)
-for providing open-source material to build a simple website.
+for providing open-source material to help build a simple website like this.
