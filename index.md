@@ -3,8 +3,7 @@ title: home
 layout: template
 filename: index
 ---
-![Tambora](tambora56.jpg)
-Created by Brock Burghardt
+![Me](BB_Pretty.jpg)
 
 # Weather Projects
 
