@@ -17,8 +17,6 @@ Created by Brock Burghardt
 [LinkedIn](https://www.linkedin.com/in/brockburghardtphd/)
 
 ### Here is my resume
-![Resume](Resume_Brock_Burghard.pdf)
-
 
 <object data="Resume_Brock_Burghard.pdf" type="application/pdf" width="700px" height="700px">
     <embed src=Resume_Brock_Burghard.pdf">
