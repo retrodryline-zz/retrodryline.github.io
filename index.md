@@ -3,7 +3,7 @@ title: home
 layout: template
 filename: index
 ---
-![Me](BB_Pretty.jpg =100x200)
+![Me](./BB_Pretty.jpg =100x200)
 
 # Weather Projects
 
