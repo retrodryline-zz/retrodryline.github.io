@@ -4,7 +4,7 @@ layout: template
 filename: index
 ---
 
-![Me](BB_Pretty.jpg){:height="25%" width="25%" style="float: right;"}
+![Me](BB_Pretty.jpg){:height="35%" width="35%" style="float: left;"}
 
 <p>
   <a href="https://www.linkedin.com/in/brockburghardtphd/" rel="nofollow noreferrer">
