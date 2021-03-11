@@ -4,10 +4,8 @@ layout: template
 filename: index
 ---
 
-![Me](BB_Pretty.jpg){:height="25%" width="25%"}
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brockburghardtphd/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/retrodryline/)
+![Me](BB_Pretty.jpg){:height="25%" width="25%" style="float: right;"}
+
 <p>
   <a href="https://www.linkedin.com/in/brockburghardtphd/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
