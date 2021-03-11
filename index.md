@@ -5,7 +5,9 @@ filename: index
 ---
 
 ![Me](BB_Pretty.jpg){:height="25%" width="25%"}
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brockburghardtphd/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/retrodryline/)
 # Weather Projects
 
 ### Here is a collection of my work
