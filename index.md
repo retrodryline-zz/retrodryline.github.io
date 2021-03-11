@@ -8,11 +8,10 @@ filename: index
 
 <p>
   <a href="https://www.linkedin.com/in/brockburghardtphd/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> 
+  </p>
   <a href="https://github.com/retrodryline/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github</a>
 </p>
 
 # Weather Projects
