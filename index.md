@@ -5,11 +5,12 @@ filename: index
 ---
 
 ![Me](BB_Pretty.jpg){:height="35%" width="35%" style="float: left;"}
+<img src="BB_Pretty.jpg" alt="alt text" height="35%" width="35%" style="float: left;">
 
-<p>
+</p>
   <a href="https://www.linkedin.com/in/brockburghardtphd/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> 
-  </p>
+</p>
   <a href="https://github.com/retrodryline/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github</a>
 </p>
