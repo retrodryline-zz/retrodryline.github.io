@@ -6,13 +6,13 @@ filename: index
 
 <img src="BB_Pretty.jpg" alt="alt text" height="35%" width="35%" style="float: left;">
 
+Welcome to my website showcasing current and past work related to data science and meteorology. 
 
   <a href="https://www.linkedin.com/in/brockburghardtphd/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn</a> 
-</p>
+
   <a href="https://github.com/retrodryline/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github</a>
-</p>
 
 # Weather Projects
 
