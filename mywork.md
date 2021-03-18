@@ -1,7 +1,7 @@
 ---
 title: my story
 layout: template
-filename: mystory
+filename: mywork
 ---
 ![Tambora](tambora56.jpg)
 
