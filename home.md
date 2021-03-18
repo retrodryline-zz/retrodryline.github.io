@@ -1,7 +1,7 @@
 ---
 title: home
 layout: template
-filename: index
+filename: home
 ---
 
 <img src="BB_Pretty.jpg" alt="alt text" height="35%" width="35%" style="float: left;">
