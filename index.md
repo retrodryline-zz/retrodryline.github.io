@@ -13,6 +13,8 @@ Welcome to my website showcasing current and past work related to data science a
   <a href="https://github.com/retrodryline/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github</a>
 
+
+
 ### Here is my resume
 
 <object data="Resume_Brock_Burghard.pdf" type="application/pdf" width="700px" height="700px">
