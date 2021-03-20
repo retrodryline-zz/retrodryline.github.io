@@ -14,7 +14,7 @@ Welcome to my website showcasing current and past work related to data science a
   <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github</a>
 
 
-</p>
+
 ### Here is my resume
 
 <object data="Resume_Brock_Burghard.pdf" type="application/pdf" width="700px" height="700px">
