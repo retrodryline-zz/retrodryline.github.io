@@ -14,6 +14,7 @@ Welcome to my website showcasing current and past work related to data science a
   <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github</a>
 
 <br>
+<i class='fas fa-hammer'></i>
 <br>
 ### Here is my resume
 
