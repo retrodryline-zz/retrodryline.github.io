@@ -18,9 +18,9 @@ Welcome to my website showcasing current and past work related to data science a
 <br>
 ### Here is my resume
 
-<object data="Resume_Brock_Burghard.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src=Resume_Brock_Burghard.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/retrodryline/retrodryline.github.io/blob/gh-pages-simple/Resume_Brock_Burghard.pdf">Download PDF</a>.</p>
+<object data="Resume_Brock_Burghardt.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src=Resume_Brock_Burghardt.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/retrodryline/retrodryline.github.io/blob/gh-pages-simple/Resume_Brock_Burghardt.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
